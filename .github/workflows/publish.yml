@@ -5,7 +5,7 @@ on:
     types: [published]
 
 env:
-  IMAGE_NAME: ghcr.io/jizi/ansible
+  IMAGE_NAME: ghcr.io/jizi-network/ansible
 
 jobs:
   build:
